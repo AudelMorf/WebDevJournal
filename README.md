@@ -19,3 +19,23 @@
 > 
 ## Potential roadblocks
 >One of my problems would be I'm not asking enough questions to get the full picture of what is being presented.
+
+
+# The primary uses for JavaScript 
+	
+
+Java is used..
+
+	## for making web applications with a series of switches that dictate what will happen when conditions are made like a game or a web page 
+
+## Positive uses for Javascript
+
+ 1. ability to create interactive behavior 
+ 2. easy to understand
+ 3. Interoperability (can be embed into a webpage or inside script of another language
+
+
+# Downsides to using JavaScript
+while being an easy to use language, it has it weak links. Some of those links would be  client-Side security, which is when your code is being executed on the client side , bugs that weren't caught after being published can become exploited.
+
+Another weak link would be its **Browser Support** meaning while your code might be working in a browser another browser might interpret it different.
